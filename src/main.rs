@@ -16,5 +16,4 @@ fn main() {
     let mut random_num = rand::thread_rng().gen_range(0..max_int);
 
     println!("Maximum number to generate is: {}", random_num);
-
 }
